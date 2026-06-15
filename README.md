@@ -35,7 +35,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img width="1336" height="867" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/790f9d4c-10dc-42e1-8763-65ec29f37754" />
+<img width="600" height="400" alt="1_Salary_Dashboard_Chart1" src="https://github.com/user-attachments/assets/790f9d4c-10dc-42e1-8763-65ec29f37754" />
 
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
@@ -76,12 +76,12 @@ IF(
 
 🍽️ Background Table
 
-<img width="265" height="220" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/48ae79a1-bffe-4f6a-84fa-a21e7da1012d" />
+<img width="300" height="300" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/48ae79a1-bffe-4f6a-84fa-a21e7da1012d" />
 
 
 📉 Dashboard Implementation
 
-<img width="1148" height="1214" alt="1_Salary_Dashboard_Job_Title" src="https://github.com/user-attachments/assets/92f42f35-d19e-4d3d-8684-4efd35e134e9" alt="Salary Dashboard Title" />
+<img  width="600" height="600" alt="1_Salary_Dashboard_Job_Title" src="https://github.com/user-attachments/assets/92f42f35-d19e-4d3d-8684-4efd35e134e9" alt="Salary Dashboard Title" />
 
 #### ⏰ Count of Job Schedule Type
 
@@ -94,12 +94,12 @@ IF(
 
 🍽️ Background Table
 
-<img width="195" height="119" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/9fa60686-7c18-4ca9-b9c4-2de79f378e20" />
+<img width="300" height="300" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/9fa60686-7c18-4ca9-b9c4-2de79f378e20" />
 
 
 📉 Dashboard Implementation:
 
-<img width="942" height="1212" alt="1_Salary_Dashboard_Type" src="https://github.com/user-attachments/assets/8c5ea09c-22ac-4d87-b15d-dc620dd2eba0" />
+<img  width="600" height="600" alt="1_Salary_Dashboard_Type" src="https://github.com/user-attachments/assets/8c5ea09c-22ac-4d87-b15d-dc620dd2eba0" />
 
 
 ### ❎ Data Validation
@@ -111,7 +111,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img width="624" height="602" alt="1_Salary_Dashboard_Data_Validation" src="https://github.com/user-attachments/assets/690325ea-210d-4da6-bef8-e8db45ddb8ca" />
+<img  width="600" height="600" alt="1_Salary_Dashboard_Data_Validation" src="https://github.com/user-attachments/assets/690325ea-210d-4da6-bef8-e8db45ddb8ca" />
 
 ## Conclusion
 
